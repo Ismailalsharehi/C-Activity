@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.AssemblyInfo.cs
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\web\C#\Activity\bin\Debug\net9.0-windows\Activity.exe
+C:\Users\a\Desktop\web\C#\Activity\bin\Debug\net9.0-windows\Activity.deps.json
+C:\Users\a\Desktop\web\C#\Activity\bin\Debug\net9.0-windows\Activity.runtimeconfig.json
+C:\Users\a\Desktop\web\C#\Activity\bin\Debug\net9.0-windows\Activity.dll
+C:\Users\a\Desktop\web\C#\Activity\bin\Debug\net9.0-windows\Activity.pdb
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.dll
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\refint\Activity.dll
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.pdb
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\Activity.genruntimeconfig.cache
+C:\Users\a\Desktop\web\C#\Activity\obj\Debug\net9.0-windows\ref\Activity.dll
